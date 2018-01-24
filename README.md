@@ -1,15 +1,15 @@
 Welcome to the website for the Web Tech Module at Edinburgh Napier University. It is worth bookmarking this page (as well as the [Git repo](https://github.com/siwells/set08101) or consider cloning it and regularly pulling any changes).
 
-Many of us will already have experienced some aspect of all of the topics covered in this module. Partly because it is really difficult to engage in modern life without using the web in some capacity and thereby being exposed to the end user experience of bing a web user, partly because some aspects of HTML, CSS, and Javascript are taught at various levels throughout school and college as an easy way into technology and coding skills, and partly because the web and it's various technologies are quite accessible. It is quite easy to throw some HTML at a web browser and see the results without needing to deal with the compilers and development environments that most other programming tasks require.
+Many of us will already have experienced some aspect of all of the topics covered in this module. Partly because it is really difficult to engage in modern life without using the web in some capacity and thereby being exposed to the end user experience of being a web user, partly because some aspects of HTML, CSS, and Javascript are taught at various levels throughout school and college as an easy way into technology and coding skills, and partly because the web and it's various technologies are quite accessible. It is quite easy to throw some HTML at a web browser and see the results without needing to deal with the compilers and development environments that most other programming tasks require.
 
 In this module we're going to break down our existing web skills, fill in any gaps we identify, and then reassemble everything into a robust and extensible toolkit for building, using, and exploiting web-based technologies. We will mostly work on the client side, developing strong skills for designing and implementing web sites & web applications that run in the user's web browser, but taking some excursions onto the server side along the way so that we can build and implement secure data storage solutions along with the RESTful APIs that allow our browsers to access them. We'll support these skills with knowledge of design and development methodologies that enable us to document and communicate our ideas to others, as well as a practical understanding of the web standards, accessibility, security, and privacy topics that underpin professional operation in this area.
 
 # Lectures
 
 - [Lecture 00](https://www.dropbox.com/s/1d6hv8t4t1fq2x2/L00_overview.pdf?dl=1): Module Overview
-- Lecture 01: Introduction
-- Lecture 02: Data (HTML5) - Hypertext & Hypermedia
-- Lecture 03: Style (CSS3) - Adding visual appeal & more
+- [Lecture 01](https://www.dropbox.com/s/yihemphbqcphgr9/L01_intro.pdf?dl=1): Introduction
+- [Lecture 02](https://www.dropbox.com/s/oap0mof6bb0emrw/L02_html.pdf?dl=1): Data (HTML5) - Hypertext & Hypermedia
+- [Lecture 03](https://www.dropbox.com/s/4fkaipizyz5rsze/L03_css.pdf?dl=1): Style (CSS3) - Adding visual appeal & more
 - Lecture 04: Dynamics (Javascript) - Web Programming
 - Lecture 05: Principles of Web Design & Development
 - Lecture 06: The Server side - Node JS & Data Storage
@@ -22,8 +22,10 @@ In this module we're going to break down our existing web skills, fill in any ga
 
 # Workbook: Labs & Notes
 
--  [Lab 01](https://www.dropbox.com/s/r2b71vqb9n7ds3p/lab01_hello.web.pdf?dl=1)
--  [Lab 02](https://www.dropbox.com/s/o7cpeclbwrbxwbs/lab02_html.pdf?dl=1)
+- [Lab 01](https://www.dropbox.com/s/r2b71vqb9n7ds3p/lab01_hello.web.pdf?dl=1): Introduction
+- [Lab 02](https://www.dropbox.com/s/o7cpeclbwrbxwbs/lab02_html.pdf?dl=1): HTML
+- [Lab 03](https://www.dropbox.com/s/8fx06kg67zauutu/lab03_css.pdf?dl=1): CSS
+- Lab 04: Javascript
 
 # Reading
 
@@ -40,6 +42,8 @@ The library also has a lot of books on web development & related technologies. Y
 The following aren't currently available via our library, but are worth getting a hold of:
 
 - Javascript: The Good Parts by Douglas Crockford
+- The Tangled Web: A Guide to Securing Modern Web Applications by Michal Zalewski
+- The Web Application Hacker's Handbook (2nd Edition) by Dafydd Stuttard & Marcus Pinto
 
 # Assessments
 
