@@ -10,12 +10,12 @@ In this module we're going to break down our existing web skills, fill in any ga
 - [Lecture 01](https://www.dropbox.com/s/yihemphbqcphgr9/L01_intro.pdf?dl=1): Introduction
 - [Lecture 02](https://www.dropbox.com/s/oap0mof6bb0emrw/L02_html.pdf?dl=1): Data (HTML5) - Hypertext & Hypermedia
 - [Lecture 03](https://www.dropbox.com/s/4fkaipizyz5rsze/L03_css.pdf?dl=1): Style (CSS3) - Adding visual appeal & more
-- Lecture 04: Dynamics (Javascript) - Web Programming
-- Lecture 05: Principles of Web Design & Development
-- Lecture 06: The Server side - Node JS & Data Storage
-- Lecture 07: RESTful Design
-- Lecture 08: JS Libraries & Frameworks: JQuery, Angular, React, Backbone, Vue
-- Lecture 09: Responsive Design + Bootstrap & related projects
+- [Lecture 04](https://www.dropbox.com/s/badyn1vfp8ymaps/L04_javascript.pdf?dl=1): Dynamics (Javascript) - Web Programming
+- [Lecture 05](https://www.dropbox.com/s/ymufn540cpvk0ug/L05_design%2Bdev.pdf?dl=1): Principles of Web Design & Development
+- [Lecture 06](https://www.dropbox.com/s/p8b09xmqnvru5xj/L06_the.server.side.pdf?dl=1): Servers, Web Serving, & Web Scale
+- [Lecture 07](https://www.dropbox.com/s/uxh9h65lktehitf/L07_dynamic.sites.pdf?dl=1): Dynamic Sites using Node.JS
+- Lecture 08: Web-apps & RESTful Design
+- Lecture 09: Datastores: JSON & Databases
 - Lecture 10: Web Standards & Accessibility
 - Lecture 11: Security & Privacy
 - Lecture 12 - Coda & Review
@@ -25,7 +25,11 @@ In this module we're going to break down our existing web skills, fill in any ga
 - [Lab 01](https://www.dropbox.com/s/r2b71vqb9n7ds3p/lab01_hello.web.pdf?dl=1): Introduction
 - [Lab 02](https://www.dropbox.com/s/o7cpeclbwrbxwbs/lab02_html.pdf?dl=1): HTML
 - [Lab 03](https://www.dropbox.com/s/8fx06kg67zauutu/lab03_css.pdf?dl=1): CSS
-- Lab 04: Javascript
+- [Lab 04](https://www.dropbox.com/s/pxrfl95kfxle5q7/lab04_javascript.pdf?dl=1): Javascript
+- [Lab 05](https://www.dropbox.com/s/md9ewatkz9csrjv/lab05_design.pdf?dl=1): Design
+- [Lab 06](https://www.dropbox.com/s/mlycacajfafa208/lab06_serverside.pdf?dl=1): Deployment
+- [Lab 07](https://www.dropbox.com/s/8e0p1n1bqg8xxth/lab07_node.pdf?dl=1): Beginning Node.JS
+- [Lab 08](https://www.dropbox.com/s/7r084h4clpk5a53/lab08_webapps.pdf?dl=1): Beginning server side web-apps with Node & Express
 
 # Reading
 
@@ -49,8 +53,15 @@ The following aren't currently available via our library, but are worth getting 
 
 There are two practical skills assessments which together make up the full grade for this module.
 
-- Coursework Assignment #1 (25%)
+- [Coursework Assignment #1](https://www.dropbox.com/s/04myfz68kyjivjr/descriptor%231.pdf?dl=1) (25%)
 - Coursework Assignment #2 (75%)
+
+# Resources
+
+- [Using Git for Napier Students](https://www.dropbox.com/s/2kz34u0zb4qajvd/getting.started.pdf?dl=1) 
+  - [[Git Repo](https://github.com/siwells/git)  for this resource]
+- [LaTeX Quick Start using the ENU Report Template](https://www.dropbox.com/s/h3066ezsetsw49t/latex_quick.start.pdf?dl=1)
+  - [[Git Repo](https://github.com/siwells/latex)  for this resource]
 
 # Contact
 
