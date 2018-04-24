@@ -14,10 +14,10 @@ In this module we're going to break down our existing web skills, fill in any ga
 - [Lecture 05](https://www.dropbox.com/s/ymufn540cpvk0ug/L05_design%2Bdev.pdf?dl=1): Principles of Web Design & Development
 - [Lecture 06](https://www.dropbox.com/s/p8b09xmqnvru5xj/L06_the.server.side.pdf?dl=1): Servers, Web Serving, & Web Scale
 - [Lecture 07](https://www.dropbox.com/s/uxh9h65lktehitf/L07_dynamic.sites.pdf?dl=1): Dynamic Sites using Node.JS
-- Lecture 08: Web-apps & RESTful Design
+- [Lecture 08](https://www.dropbox.com/s/raxma3iqh62u25r/L08_rest.pdf?dl=1): Web-apps & RESTful Design
 - Lecture 09: Datastores: JSON & Databases
 - Lecture 10: Web Standards & Accessibility
-- Lecture 11: Security & Privacy
+- [Lecture 11](https://www.dropbox.com/s/7wztj1d5a2ggclb/L11_security%2Bprivacy.pdf?dl=1): Security & Privacy
 - Lecture 12 - Coda & Review
 
 # Workbook: Labs & Notes
@@ -30,6 +30,8 @@ In this module we're going to break down our existing web skills, fill in any ga
 - [Lab 06](https://www.dropbox.com/s/mlycacajfafa208/lab06_serverside.pdf?dl=1): Deployment
 - [Lab 07](https://www.dropbox.com/s/8e0p1n1bqg8xxth/lab07_node.pdf?dl=1): Beginning Node.JS
 - [Lab 08](https://www.dropbox.com/s/7r084h4clpk5a53/lab08_webapps.pdf?dl=1): Beginning server side web-apps with Node & Express
+- [Lab 09](https://www.dropbox.com/s/ihetckgwobyauet/lab09_api.design.pdf?dl=1): Designing APIs with REST & JSON
+- [Lab 10](https://www.dropbox.com/s/zduffpk8cfy68ja/lab10_datastores.pdf?dl=1): Datastores
 
 # Reading
 
@@ -40,6 +42,8 @@ The University Library has subscriptions to a heap of online resources. The foll
 - [Moving to Responsive Web Design](https://link.springer.com/book/10.1007/978-1-4842-1987-4)
 - [Beginning Responsive Web Design with HTML 5 and CSS3](https://link.springer.com/book/10.1007/978-1-4302-6695-2)
 - [Sustainable Web Ecosystem Design](https://link.springer.com/book/10.1007/978-1-4614-7714-3)
+- [Beginning Node.js](https://link.springer.com/book/10.1007/978-1-4842-0187-9)
+- [Pro Express.js](https://link.springer.com/book/10.1007/978-1-4842-0037-7)
 
 The library also has a lot of books on web development & related technologies. You should supplement the suggested reading above with books and other resources that you find for yourself. This is part of the university experience, taking the suggested readings and topics covered during lectures and labs, using them as a basic scaffold, then diving deeply into related topics in order to extend your knowledge and in order to tailor your learning and skillset to your own interests and career plans.
 
@@ -54,7 +58,7 @@ The following aren't currently available via our library, but are worth getting 
 There are two practical skills assessments which together make up the full grade for this module.
 
 - [Coursework Assignment #1](https://www.dropbox.com/s/04myfz68kyjivjr/descriptor%231.pdf?dl=1) (25%)
-- Coursework Assignment #2 (75%)
+- [Coursework Assignment #2](https://www.dropbox.com/s/g50r54tv58vv9i1/descriptor%232.pdf?dl=1) (75%)
 
 # Resources
 
